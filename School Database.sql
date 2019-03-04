@@ -1,3 +1,4 @@
+/*The term `Final` implies the entire School schema*/
 CREATE SCHEMA IF NOT EXISTS `Final` ;
 USE `Final` ;
 
