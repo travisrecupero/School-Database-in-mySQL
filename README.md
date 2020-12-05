@@ -1,4 +1,4 @@
-# CST171-Database-Applications-Concepts---Final-Project-
+# School-Database-in-mySQL
 Complete database coded in mySQL with example queries, model, and ERD. 
 
 The school system consists of 10 tables: College, Buildings, Classrooms, Sections, Courses, Textbooks, Persons, Faculty, Students, and Interns. 
